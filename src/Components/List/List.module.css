@@ -1,0 +1,13 @@
+.list{
+    width:50%;
+    align-items: center;
+    background-color: aqua;
+    margin:30px;
+    padding: 40px;
+}
+h1{
+    color: red;
+}
+.change{
+    background-color: beige;
+}
